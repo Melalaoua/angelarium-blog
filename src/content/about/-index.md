@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "L'Angelarium"
 meta_title: "About"
-description: "this is meta description"
+description: "Description sur l'Angelarium"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Fondé en Août 2016, le groupe a évolué au fur et à mesure des années. Des anciens membres l'ont quitté, de nouveaux sont arrivés, mais l'identité du groupe est restée immuable. Souhaitant l'excellence, nous nous attelons pas qu'à une seule activité, ce que nous aimons, c'est le chaos.

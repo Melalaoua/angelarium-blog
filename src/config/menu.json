@@ -26,8 +26,12 @@
           "url": "/blog"
         },
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Emanations",
+          "url": "/emanations"
+        },
+        {
+          "name": "Patch Notes",
+          "url": "/patch_notes"
         },
         {
           "name": "Categories",
@@ -36,10 +40,6 @@
         {
           "name": "Tags",
           "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
         }
       ]
     }
